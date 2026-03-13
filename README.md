@@ -49,6 +49,11 @@ This portfolio demonstrates my ability to:
 ### Retail Sales Analysis
 Exploratory data analysis of retail transaction data.
 
+### Example Visualization
+
+#### Revenue by Product Category
+![Revenue by Product Category](retail-sales-analysis/images/revenue_by_product_category.png)
+
 [View Project](./retail-sales-analysis)
 
 ---
