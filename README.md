@@ -23,7 +23,7 @@ Key insights:
 - Higher quantities generally resulted in larger transaction values.
 
 Project Link:  
-👉 [Retail Sales Analysis](link-to-your-repo)
+👉 [Retail Sales Analysis](Retail_Sales_Analysis.ipynb)
 
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/gissellduran
