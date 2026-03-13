@@ -12,29 +12,18 @@ Hi! I’m Gissell Duran, a Client Success Specialist transitioning into Data Ana
 
 ## Featured Projects
 
-### 1) Sales & Customer Insights (SQL)
-- **Goal:** Analyze customer behavior and sales performance to identify growth opportunities.
-- **Tools:** SQL  
-- **Repo:** [SQL Business Analytics](#)  
-- **Highlights:** KPIs, segmentation, trend analysis
+### Retail Sales Data Analysis
+Analyzed retail transaction data to uncover purchasing patterns and customer behavior.
 
-### 2) Customer Churn Analysis (Python)
-- **Goal:** Explore drivers of churn and provide retention-focused recommendations.
-- **Tools:** Python (pandas, matplotlib)  
-- **Repo:** [Customer Churn Analysis](#)  
-- **Highlights:** Data cleaning, EDA, insights + recommendations
+**Tools:** Python, pandas, seaborn, matplotlib
 
-### 3) Executive Dashboard (Power BI / Tableau)
-- **Goal:** Build a dashboard that tracks revenue, retention, and operational KPIs.
-- **Tools:** Power BI or Tableau  
-- **Repo:** [Sales Performance Dashboard](#)  
-- **Preview:** *(Add dashboard screenshot here)*
+Key insights:
+- Clothing products had the highest purchase frequency.
+- Customer age did not strongly influence purchase amount.
+- Higher quantities generally resulted in larger transaction values.
 
-### 4) Automated Monthly Reporting (Python + Excel/CSV)
-- **Goal:** Automate a repeatable monthly reporting workflow.
-- **Tools:** Python, Excel  
-- **Repo:** [Monthly Report Automation](#)  
-- **Highlights:** Clean dataset → produce report-ready outputs
+Project Link:  
+👉 [Retail Sales Analysis](link-to-your-repo)
 
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/gissellduran
