@@ -1,11 +1,17 @@
-# Retail Sales Analysis
+# Retail Sales Data Analysis
 
-This project analyzes retail transaction data to identify purchasing trends and customer behavior.
+## Project Overview
+This project analyzes retail transaction data to uncover purchasing patterns and customer behavior.
 
 ## Tools
 Python, pandas, seaborn, matplotlib
 
+## Analysis Performed
+- Data cleaning
+- Exploratory data analysis
+- Data visualization
+
 ## Key Insights
-- Clothing has the highest number of purchases
-- Age does not strongly influence purchase amount
-- Larger quantities lead to higher transaction values
+- Clothing had the highest purchase frequency
+- Customer age showed little correlation with purchase amount
+- Larger purchase quantities resulted in higher transaction values
