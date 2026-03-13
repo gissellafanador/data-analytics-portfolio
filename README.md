@@ -46,18 +46,10 @@ This portfolio demonstrates my ability to:
 
 ## Featured Projects
 
-### Retail Sales Data Analysis
-Analyzed retail transaction data to identify purchasing patterns and customer behavior.
+### Retail Sales Analysis
+Exploratory data analysis of retail transaction data.
 
-**Tools:** Python, pandas, seaborn, matplotlib, Google Colab
-
-Key insights:
-- Clothing had the highest purchase frequency across all product categories
-- Customer age showed little correlation with purchase amount
-- Higher purchase quantities resulted in larger transaction values
-
-📊 **Project:**  
-[Retail Sales Analysis Notebook](retail-sales-analysis)
+[View Project](./retail-sales-analysis)
 
 ---
 
