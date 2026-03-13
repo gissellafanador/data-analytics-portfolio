@@ -57,7 +57,7 @@ Key insights:
 - Higher purchase quantities resulted in larger transaction values
 
 📊 **Project:**  
-[Retail Sales Analysis Notebook](./Retail_Sales_Analysis.ipynb)
+[Retail Sales Analysis Notebook](retail-sales-analysis)
 
 ---
 
