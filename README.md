@@ -1,6 +1,6 @@
 # Gissell Duran — Data Analytics Portfolio
 
-Hi! I'm **Gissell Duran**, a Client Success Specialist transitioning into **Data Analytics**.
+Hi! I'm **Gissell Duran**,
 
 I enjoy using data to uncover insights, improve processes, and support better business decisions. My background in client success allows me to approach data with a **business-first mindset**, focusing on actionable insights that help teams make smarter decisions.
 
