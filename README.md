@@ -57,7 +57,9 @@ Explored retail transaction data to uncover customer purchasing behavior, revenu
 - Analyzed customer demographics and spending patterns  
 - Identified top-performing product categories  
 - Visualized relationships between age, quantity, and revenue  
-- Built multiple visualizations to support business insights  
+- Built multiple visualizations to support business insights
+
+![Retail Sales Preview](retail-sales-analysis/images/revenue_by_product_category.png)
 
 🔗 [View Project](retail-sales-analysis/)
 
@@ -72,7 +74,9 @@ Analyzed 2,000+ job postings to identify in-demand skills, salary trends, and hi
 - Identified SQL, Excel, and Python as the most in-demand skills  
 - Analyzed common skill combinations across job postings  
 - Examined geographic job distribution across major cities  
-- Explored salary trends, showing most roles fall within the $50K–$80K range  
+- Explored salary trends, showing most roles fall within the $50K–$80K range
+
+![Job Market Preview](job-market-analysis/images/top_skills.png)
 
 🔗 [View Project](job-market-analysis/)
 
