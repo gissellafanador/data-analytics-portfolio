@@ -22,7 +22,7 @@ This project analyzes data analyst job postings to identify in-demand skills, co
 ![Top Skills](images/top_skills.png)
 
 ### Hiring Locations
-![Locations](images/top_locations.png)
+![Locations](images/locations.png)
 
 ### Skill Combinations
 ![Skill Combos](images/skill_combinations.png)
