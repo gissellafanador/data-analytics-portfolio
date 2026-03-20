@@ -19,13 +19,13 @@ This project analyzes data analyst job postings to identify in-demand skills, co
 ## Visualizations
 
 ### Top Skills
-![Top Skills](images/top_skills)
+![Top Skills](images/top_skills.png)
 
 ### Hiring Locations
-![Locations](images/top_locations)
+![Locations](images/top_locations.png)
 
 ### Skill Combinations
-![Skill Combos](images/skill_combinations)
+![Skill Combos](images/skill_combinations.png)
 
 ### Salary Distribution
-![Salary](images/salary_distribution)
+![Salary](images/salary_distribution.png)
