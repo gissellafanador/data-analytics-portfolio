@@ -46,23 +46,40 @@ This portfolio demonstrates my ability to:
 
 ## Featured Projects
 
+---
+
 ### Retail Sales Analysis
-Exploratory data analysis of retail transaction data.
+Explored retail transaction data to uncover customer purchasing behavior, revenue trends, and product performance.
 
-### Example Visualization
+**Tools:** Python, pandas, seaborn, matplotlib  
 
-#### Revenue by Product Category
-![Revenue by Product Category](retail-sales-analysis/images/revenue_by_product_category.png)
+**Key Highlights:**
+- Analyzed customer demographics and spending patterns  
+- Identified top-performing product categories  
+- Visualized relationships between age, quantity, and revenue  
+- Built multiple visualizations to support business insights  
 
-[View Project](./retail-sales-analysis)
+🔗 [View Project](retail-sales-analysis/)
 
 ---
+
+### Job Market Skills Analysis
+Analyzed 2,000+ job postings to identify in-demand skills, salary trends, and hiring patterns for data analyst roles.
+
+**Tools:** Python, pandas, seaborn, matplotlib  
+
+**Key Highlights:**
+- Identified SQL, Excel, and Python as the most in-demand skills  
+- Analyzed common skill combinations across job postings  
+- Examined geographic job distribution across major cities  
+- Explored salary trends, showing most roles fall within the $50K–$80K range  
+
+🔗 [View Project](job-market-analysis/)
 
 ## Projects Roadmap
 
 Upcoming projects in this portfolio will include:
 
-- Job Market Data Analysis (Data Analyst skill demand)
 - Customer Segmentation Analysis
 - Sales Dashboard with Tableau / Power BI
 
