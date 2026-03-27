@@ -1,17 +1,42 @@
-# Customer Churn Analysis
+# Customer Churn Analysis (BigQuery SQL)
 
-## Overview
-This project analyzes customer churn data using SQL in Google BigQuery to identify key drivers of customer retention.
+Analyzed customer churn data using SQL in BigQuery to identify key drivers of churn and uncover actionable business insights.
+
+---
 
 ## Tools
-- SQL
-- Google BigQuery
+- BigQuery (SQL)
+- Data Aggregation & Analysis
+
+---
+
+## Analysis Performed
+- Calculated overall churn rate
+- Analyzed churn by contract type
+- Evaluated churn by tech support availability
+- Segmented churn by customer tenure
+
+---
 
 ## Key Insights
-- Overall churn rate was ~26.5%
-- Month-to-month contracts had the highest churn (~42.7%)
-- Customers without tech support had ~3x higher churn
-- New customers (0–12 months) had the highest churn (~47%)
+- Month-to-month customers had the highest churn (~42%), indicating low commitment increases churn risk
+- Customers without tech support had significantly higher churn (~41%) compared to those with support (~15%)
+- New customers (0–12 months) showed the highest churn (~47%), suggesting early-stage retention is critical
+- Long-term customers (49+ months) had the lowest churn (~9%), highlighting strong retention over time
 
-## Files
-- churn_analysis.sql
+---
+
+## Visualization
+
+![Churn by Contract Type](images/contract_churn.png)
+
+---
+
+## Project Files
+- `churn_analysis.sql` → SQL queries used for analysis
+- `images/` → Visualizations from analysis
+
+---
+
+## Summary
+This project demonstrates how SQL can be used to extract insights from customer data, identify churn patterns, and support data-driven retention strategies.
