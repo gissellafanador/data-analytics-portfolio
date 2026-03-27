@@ -80,6 +80,22 @@ Analyzed 2,000+ job postings to identify in-demand skills, salary trends, and hi
 
 🔗 [View Project](job-market-analysis/)
 
+---
+
+### Customer Churn Analysis
+
+Analyzed customer churn data using SQL in Google BigQuery to identify retention trends and key drivers of customer attrition.
+
+**Tools:** SQL, Google BigQuery  
+
+**Key Highlights:**
+- Calculated overall churn rate (~26.5%), identifying a significant retention challenge  
+- Identified contract type as a major driver, with month-to-month customers showing the highest churn (~42.7%)  
+- Found that customers without tech support had ~3x higher churn (41.6% vs. 15.2%)  
+- Analyzed customer tenure, revealing that new customers (0–12 months) had the highest churn (~47%)  
+
+📁 [View SQL Analysis](sql/churn_analysis.sql)
+
 ## Projects Roadmap
 
 Upcoming projects in this portfolio will include:
