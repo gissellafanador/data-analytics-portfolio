@@ -1,6 +1,9 @@
 # Gissell Duran – Data Analytics Portfolio
 
-Aspiring data analyst/data scientist with a background in psychology and client operations, focused on transforming data into actionable business insights.
+## About Me
+
+I’m currently pursuing a Master’s in Data Science with interests in customer behavior, retention analytics, and business intelligence. My background in psychology and client operations shapes how I approach data storytelling and user behavior analysis.
+
 This portfolio highlights projects in customer analytics, retention analysis, and data-driven decision-making using SQL, Python, and visualization tools.
 
 ---
