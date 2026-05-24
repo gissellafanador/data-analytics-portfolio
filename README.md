@@ -98,8 +98,6 @@ Currently building projects to expand skills in advanced analytics, experimentat
 
 ## Contact
 
----
-
 **LinkedIn**  
 www.linkedin.com/in/gissellduran  
 
