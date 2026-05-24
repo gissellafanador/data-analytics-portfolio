@@ -1,6 +1,7 @@
 # Gissell Duran – Data Analytics Portfolio
 
-This portfolio showcases projects focused on data analysis, business insights, and data-driven decision-making using SQL, Python, and visualization tools.
+Aspiring data analyst/data scientist with a background in psychology and client operations, focused on transforming data into actionable business insights.
+This portfolio highlights projects in customer analytics, retention analysis, and data-driven decision-making using SQL, Python, and visualization tools.
 
 ---
 
@@ -26,7 +27,7 @@ Analyzed customer churn data using SQL in BigQuery to identify key drivers of re
 ### Job Market Skills Analysis
 Analyzed 2,000+ data analyst job postings to identify in-demand skills, salary trends, and hiring patterns.
 
-**Tools:** Python, pandas, matplotlib, seaborn
+**Tools:** Python, pandas, matplotlib
 
 **Key Highlights:**
 - Identified SQL, Excel, and Python as the most in-demand skills across job postings  
@@ -43,7 +44,7 @@ Analyzed 2,000+ data analyst job postings to identify in-demand skills, salary t
 ### Retail Sales Analysis
 Analyzed retail transaction data to uncover purchasing patterns and key revenue drivers.
 
-**Tools:** Python, pandas, matplotlib, seaborn
+**Tools:** Python, pandas, matplotlib
 
 **Key Highlights:**
 - Identified clothing as the highest purchase frequency category  
@@ -77,11 +78,24 @@ Currently building projects to expand skills in advanced analytics, experimentat
 
 ---
 
-## Skills
+## Technical Skills
 
-**Languages & Tools:** SQL, Python, R, Tableau, Power BI, Excel  
-**Techniques:** Data Cleaning, EDA, Statistical Analysis, Data Visualization, KPI Tracking  
-**Tools & Platforms:** BigQuery, Pandas, NumPy, Git/GitHub
+**Languages:** SQL, Python, R  
+**Data Tools:** BigQuery, Pandas, NumPy  
+**Visualization:** Tableau, Power BI, matplotlib  
+**Techniques:** EDA, Statistical Analysis, KPI Tracking, Data Cleaning  
+**Version Control:** Git/GitHub
+
+---
+
+## Currently Learning
+- Advanced SQL window functions
+- A/B testing and experimentation
+- Predictive modeling with scikit-learn
+- Dashboard development in Tableau
+
+---
+
 ## Contact
 
 ---
