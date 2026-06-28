@@ -17,7 +17,7 @@ Analyzed customer churn data using SQL in BigQuery to identify key drivers of re
 
 **Key Highlights:**
 - Calculated overall churn rate (~26.5%), identifying a significant retention challenge  
-- Found month-to-month customers had the highest churn (~42%), indicating low contract commitment risk  
+- Found that month-to-month customers had the highest churn (~42%), indicating low contract commitment risk  
 - Identified ~3x higher churn among customers without tech support (41% vs 15%)  
 - Determined new customers (0–12 months) are most at risk (~47% churn), highlighting onboarding gaps  
 
@@ -58,14 +58,17 @@ Analyzed retail transaction data to uncover purchasing patterns and key revenue 
 
 ---
 
+### A/B Testing An Onboarding Flow To Improve User Activation
+Analyzing a new onboarding flow to uncover improvements in user activation and any possible negative impacts on downstream navigation or 7-day retention.
+
+**Tools:** SQL (BigQuery), Python, pandas, matplotlib
+
+**Key Highlights:**
+
+
 ## Project Roadmap
 
-Currently building projects to expand skills in advanced analytics, experimentation, and data storytelling.
-
-### A/B Testing and Experimentation
-- Analyze control vs test groups using statistical methods  
-- Apply hypothesis testing and confidence intervals  
-- Support data-driven product and marketing decisions  
+Currently building projects to expand skills in advanced analytics, experimentation, and data storytelling. 
 
 ### Customer Segmentation
 - Use clustering techniques to group customers based on behavior  
@@ -93,7 +96,6 @@ Currently building projects to expand skills in advanced analytics, experimentat
 
 ## Currently Learning
 - Advanced SQL window functions
-- A/B testing and experimentation
 - Predictive modeling with scikit-learn
 - Dashboard development in Tableau
 
